@@ -653,7 +653,7 @@ header .navbar {
 }
 
 /* Responsive media query code for max width 640px */
-@media screen and (max-width: 375px) {
+@media screen and (max-width: 640px) {
     .menu-section .menu-list {
         gap: 60px;
     }
