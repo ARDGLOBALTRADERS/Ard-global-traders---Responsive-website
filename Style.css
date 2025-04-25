@@ -118,7 +118,7 @@ header .navbar {
 
 .navbar .nav-logo .logo-text{
     color: var(--white-color); 
-    font-size: var(--font-size-xl); 
+    font-size: var(--font-size-l); 
     font-weight: var(--font-weight-semibold);
    
     /* Alternative changes */
@@ -524,7 +524,7 @@ header .navbar {
     :root{
         --font-size-m:1rem;
         --font-size-l:1.3rem;
-        --font-size-xl:1.35rem;
+        --font-size-xl:1.5rem;
         --font-size-xxl:1.8rem;
     }
 
