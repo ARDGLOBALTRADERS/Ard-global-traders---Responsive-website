@@ -94,7 +94,7 @@ header{
     position: fixed;
     width: 100%;
     z-index: 5;
-background: var(--primary-color);
+background: rgb(63, 13, 94);
 }
 
 /* Alternative changes */
@@ -152,14 +152,14 @@ header .navbar {
 /* Hero section styling */
 .hero-section{
     min-height: 100vh;
-    background:rgb(26, 141, 126);
+    background: rgba(181, 184, 184, 0.562);
 }
 
 .hero-section .section-content {
     display: flex;
     align-items: center;
     min-height: 100vh;
-    color:var(--white-color);
+    color:rgb(0, 0, 0);
     justify-content: space-between;
 }
 
@@ -199,8 +199,8 @@ header .navbar {
 .hero-section .hero-details .button:hover,
 .hero-section .hero-details .contact-us
 {
-    color: var(--white-color);
-    border-color: var(--white-color);
+    color: rgb(0, 0, 0);
+    border-color: rgb(0, 0, 0);
     background: transparent;
 }
 
@@ -276,7 +276,7 @@ header .navbar {
 /* Menu section styling */
 .menu-section {
     color: var(--dark-color);
-    background: rgb(152, 156, 156);
+    background: rgba(181, 184, 184, 0.562);
     padding: 50px 0 100px;
 
 }
